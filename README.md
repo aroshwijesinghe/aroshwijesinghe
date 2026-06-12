@@ -1,12 +1,6 @@
 <!-- CYBERPUNK TERMINAL HEADER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  root@arosh:~$ ./initialize_profile.sh                             TTY/01  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=45&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=70&lines=%3E+AROSH+WIJESINGHE" alt="Name" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+3rd+Year+Artificial+Intelligence+Student+%2F%2F+University+of+Moratuwa;%3E+Exploring+the+boundaries+of+AI+%2F+ML;%3E+Building+intelligent+systems+for+the+future" alt="Subtitle" />
@@ -131,13 +125,3 @@
 </div>
 
 <br>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  © 2026 AROSH_WIJESINGHE :: ALL_SYSTEMS_NOMINAL       🟢 SESSION_ENCRYPTED ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
