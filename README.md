@@ -42,45 +42,71 @@
 
 <h4 align="center"><code>[ LANGUAGES ]</code></h4>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,py,php,r,java,cpp,dart,mysql&theme=dark" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white&labelColor=0D1117" height="48" style="vertical-align: top;" />
-</p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" /><br>C</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" /><br>C++</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" /><br>Java</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" /><br>Python</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+  </tr>
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" /><br>PHP</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" /><br>R</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48" height="48" alt="Dart" /><br>Dart</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td width="96"><img src="https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logoColor=white" height="48" alt="Prolog" /></td>
+  </tr>
+</table>
 
 <h4 align="center"><code>[ AI / ML ]</code></h4>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" style="vertical-align: top;" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" style="vertical-align: top;" />
-</p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn</td>
+    <td width="96"><img src="https://img.shields.io/badge/-150458?style=flat-square&logo=pandas&logoColor=white" height="48" alt="Pandas" /><br>Pandas</td>
+    <td width="96"><img src="https://img.shields.io/badge/-013243?style=flat-square&logo=numpy&logoColor=white" height="48" alt="Numpy" /><br>Numpy</td>
+  </tr>
+</table>
 
 <h4 align="center"><code>[ FRAMEWORKS & TECHNOLOGIES ]</code></h4>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,docker,html,css,fastapi,arduino&theme=dark" />
-  </a>
-</p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br>React</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /><br>Docker</td>
+  </tr>
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" /><br>HTML5</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" /><br>CSS3</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino" /><br>Arduino</td>
+    <td width="96"></td>
+  </tr>
+</table>
 
 <h4 align="center"><code>[ TOOLS & ENVIRONMENT ]</code></h4>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,ubuntu,postman,git,github,pycharm&theme=dark" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Claude_AI-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117" height="48" style="vertical-align: top;" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117" height="48" style="vertical-align: top;" />
-</p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio" /><br>Visual Studio</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" height="48" alt="PowerShell" /><br>PowerShell</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" height="48" alt="Ubuntu" /><br>Ubuntu</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" /><br>Postman</td>
+  </tr>
+  <tr align="center">
+    <td width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /><br>Git</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    <td width="96"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" height="48" alt="PyCharm" /><br>PyCharm</td>
+    <td width="96"><img src="https://img.shields.io/badge/-CC9B7A?style=flat-square&logo=anthropic&logoColor=white" height="48" alt="Claude AI" /><br>Claude AI</td>
+    <td width="96"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=cursor&logoColor=white" height="48" alt="Cursor" /><br>Cursor</td>
+  </tr>
+</table>
 
 ---
 
