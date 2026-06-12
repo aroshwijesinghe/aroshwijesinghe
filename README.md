@@ -43,51 +43,43 @@
 <h4 align="center"><code>[ LANGUAGES ]</code></h4>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="65" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,py,php,r,java,cpp,dart,mysql&theme=dark" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white&labelColor=0D1117" height="48" style="vertical-align: top;" />
+</p>
+
+<h4 align="center"><code>[ AI / ML ]</code></h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="65" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" style="vertical-align: top;" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white&labelColor=0D1117" height="35" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" style="vertical-align: top;" />
 </p>
 
 <h4 align="center"><code>[ FRAMEWORKS & TECHNOLOGIES ]</code></h4>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" height="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="65" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,docker,html,css,fastapi,arduino&theme=dark" />
+  </a>
 </p>
 
 <h4 align="center"><code>[ TOOLS & ENVIRONMENT ]</code></h4>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="65" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,ubuntu,postman,git,github,pycharm&theme=dark" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Claude_AI-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117" height="48" style="vertical-align: top;" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="65" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Claude_AI-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117" height="35" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117" height="35" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117" height="48" style="vertical-align: top;" />
 </p>
 
 ---
