@@ -38,7 +38,7 @@
 ---
 
 <!-- CURRENT DIRECTIVES -->
-<h2 align="center"><code>⟨ CURRENT_DIRECTIVES // NEURAL NETWORK TRAINING ⟩</code></h2>
+<h2 align="center"><code>⟨ CURRENT_DIRECTIVES ⟩</code></h2>
 
 ```yaml
 currently_learning:
@@ -131,7 +131,7 @@ interests:
 ---
 
 <!-- ACHIEVEMENTS -->
-<h2 align="center"><code>⟨ DIGITAL_ASSETS // HOLOPIN BADGES ⟩</code></h2>
+<h2 align="center"><code>⟨ DIGITAL_ASSETS // ACHIEVEMENTS ⟩</code></h2>
 
 <div align="center">
   <a href="https://holopin.io/@aroshwijesinghe">
