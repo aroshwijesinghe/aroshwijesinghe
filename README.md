@@ -37,6 +37,26 @@
 
 ---
 
+<!-- CURRENT DIRECTIVES -->
+<h2 align="center"><code>⟨ CURRENT_DIRECTIVES // NEURAL NETWORK TRAINING ⟩</code></h2>
+
+```yaml
+currently_learning:
+  - AI/ML Engineering
+  - Deep Learning & Computer Vision
+  - Full-Stack Web Development
+  - DevOps & Cloud Computing
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning & Deep Learning
+  - Computer Vision (OpenCV)
+  - Creative Problem Solving
+  - UI/UX Design Thinking
+```
+
+---
+
 <!-- TECH ARSENAL -->
 <h2 align="center"><code>⟨ TECH_ARSENAL // 19 MODULES LOADED ⟩</code></h2>
 
