@@ -130,17 +130,6 @@ interests:
 
 ---
 
-<!-- ACHIEVEMENTS -->
-<h2 align="center"><code>⟨ DIGITAL_ASSETS // ACHIEVEMENTS ⟩</code></h2>
-
-<div align="center">
-  <a href="https://holopin.io/@aroshwijesinghe">
-    <img src="https://holopin.me/aroshwijesinghe" alt="Holopin Badges" />
-  </a>
-</div>
-
----
-
 <!-- SNAKE GAME -->
 <h2 align="center"><code>⟨ DATA_CONSUMPTION_MATRIX // SNAKE PROTOCOL ⟩</code></h2>
 
