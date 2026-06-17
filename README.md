@@ -141,12 +141,6 @@ interests:
   </picture>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="github-contribution-radar.svg" height="180" alt="GitHub Contribution Radar" />
-</div>
-
 ---
 
 <!-- COMM LINKS -->
