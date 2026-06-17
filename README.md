@@ -19,7 +19,6 @@
 <h2 align="center"><code>⟨ SYSTEM_TELEMETRY // GITHUB FEED — LIVE ⟩</code></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroshwijesinghe&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FF9D&count_private=true&custom_title=SYSTEM+METRICS&v=1" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.vercel.app/?user=aroshwijesinghe&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF9D&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF9D&sideLabels=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&timezone=Asia/Colombo&v=1" height="180" alt="Streak Stats" />
   <img src="github-contribution-radar.svg" height="180" alt="GitHub Contribution Radar" />
 </div>
@@ -35,6 +34,26 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroshwijesinghe&bg_color=0D1117&color=00FF9D&line=FF00FF&point=00FFFF&area=true&area_color=FF00FF&hide_border=true&custom_title=CONTRIBUTION+PULSE+%3A%3A+LAST+52+CYCLES&v=1" alt="Contribution Graph" />
 </div>
+
+---
+
+<!-- CURRENT DIRECTIVES -->
+<h2 align="center"><code>⟨ CURRENT_DIRECTIVES ⟩</code></h2>
+
+```yaml
+currently_learning:
+  - AI/ML Engineering
+  - Deep Learning & Computer Vision
+  - Full-Stack Web Development
+  - DevOps & Cloud Computing
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning & Deep Learning
+  - Computer Vision (OpenCV)
+  - Creative Problem Solving
+  - UI/UX Design Thinking
+```
 
 ---
 
