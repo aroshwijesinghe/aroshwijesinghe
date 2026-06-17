@@ -19,8 +19,8 @@
 <h2 align="center"><code>⟨ SYSTEM_TELEMETRY // GITHUB FEED — LIVE ⟩</code></h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aroshwijesinghe&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FF9D&count_private=true&custom_title=SYSTEM+METRICS&v=1" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.vercel.app/?user=aroshwijesinghe&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF9D&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF9D&sideLabels=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&timezone=Asia/Colombo&v=1" height="180" alt="Streak Stats" />
-  <img src="github-contribution-radar.svg" height="180" alt="GitHub Contribution Radar" />
 </div>
 
 <br>
@@ -139,6 +139,12 @@ interests:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aroshwijesinghe/aroshwijesinghe/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aroshwijesinghe/aroshwijesinghe/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="github-contribution-radar.svg" height="180" alt="GitHub Contribution Radar" />
 </div>
 
 ---
