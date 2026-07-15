@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroshwijesinghe&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&langs_count=10&custom_title=MOST+USED+LANGUAGES&v=1" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aroshwijesinghe&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&langs_count=10&custom_title=MOST+USED+LANGUAGES&v=1" alt="Top Languages" />
 </div>
 
 <br>
