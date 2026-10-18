@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroshwijesinghe&bg_color=0D1117&color=00FF9D&line=FF00FF&point=00FFFF&area=true&area_color=FF00FF&hide_border=true&custom_title=CONTRIBUTION+PULSE+%3A%3A+LAST+52+CYCLES&v=1" alt="Contribution Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=aroshwijesinghe&bg_color=0D1117&color=00FF9D&line=FF00FF&point=00FFFF&area=true&area_color=FF00FF&hide_border=true&custom_title=CONTRIBUTION+PULSE+%3A%3A+LAST+52+CYCLES" alt="Contribution Graph" />
 </div>
 
 ---
