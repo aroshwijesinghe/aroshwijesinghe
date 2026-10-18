@@ -174,7 +174,9 @@ interests:
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aroshwijesinghe&label=CYBERSPACE+VISITORS&color=FF00FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/aroshwijesinghe/">
+    <img src="https://hits.sh/github.com/aroshwijesinghe.svg?extraCount=259&style=for-the-badge&label=CYBERSPACE+VISITORS&color=ff00ff&labelColor=0d1117" alt="CYBERSPACE VISITORS" />
+  </a>
 </div>
 
 <br>
