@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="248" viewBox="0 0 1000 248" role="img" aria-labelledby="title desc">
+  <title id="title">Arosh Wijesinghe</title>
+  <desc id="desc">Third-year Artificial Intelligence student at the University of Moratuwa. A striped sunset rises over a neon wireframe ridge.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2=".35" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101328"/><stop offset=".54" stop-color="#20203f"/><stop offset="1" stop-color="#492651"/>
+    </linearGradient>
+    <linearGradient id="sun" x2="0" y2="1">
+      <stop stop-color="#ffe5ab"/><stop offset=".5" stop-color="#ffaeac"/><stop offset="1" stop-color="#fd6cae"/>
+    </linearGradient>
+    <clipPath id="disc"><circle cx="810" cy="117" r="84"/></clipPath>
+    <clipPath id="frame"><rect width="1000" height="248" rx="20"/></clipPath>
+    <pattern id="stars" width="107" height="63" patternUnits="userSpaceOnUse">
+      <circle cx="82" cy="16" r="1" fill="#eadcff"/><circle cx="24" cy="48" r=".7" fill="#81dacf"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="248" fill="url(#sky)"/>
+    <rect x="530" width="470" height="205" fill="url(#stars)" opacity=".7"/>
+    <g clip-path="url(#disc)" fill="url(#sun)">
+      <path d="M720 32h180v80H720z M720 115h180v9H720z M720 128h180v8H720z M720 141h180v7H720z M720 155h180v6H720z M720 169h180v5H720z M720 183h180v4H720z M720 197h180v3H720z"/>
+    </g>
+    <path d="m570 248 112-61 40 11 55-41 33 18 49-31 36 23 57-62 48 19v124z" fill="#2a2044" stroke="#d67cac"/>
+    <path d="m401 248 143-43 46 8 83-57 76 30 38-12 60 32 68-64 85 37v69z" fill="#161c38" stroke="#71cabf" stroke-width="1.6"/>
+    <g fill="none" stroke="#417878" opacity=".75">
+      <path d="m673 156-52 67-26 25m78-92 4 44 53 48m19-62 23 62m75-42-23 42m91-106-16 54 46 52"/>
+      <path d="m530 220 91 3 56-23 93 22 54 13 75-39 101 11"/>
+    </g>
+    <path d="M44 43h32" stroke="#67e8d3" stroke-width="4"/>
+    <g font-family="Verdana, Arial, sans-serif">
+      <text x="87" y="48" fill="#8aeada" font-size="14" letter-spacing="2">UNIVERSITY OF MORATUWA</text>
+      <text x="40" y="109" fill="#fff5f4" font-weight="700" font-size="54">Arosh</text>
+      <text x="40" y="165" fill="#fff5f4" font-weight="700" font-size="54">Wijesinghe</text>
+      <text x="44" y="210" fill="#ffcec6" font-size="19">3rd Year Artificial Intelligence Student</text>
+    </g>
+  </g>
+</svg>

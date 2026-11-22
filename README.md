@@ -1,79 +1,35 @@
-<!-- CYBERPUNK TERMINAL HEADER -->
-<div align="center">
+![Arosh Wijesinghe — Artificial Intelligence student at the University of Moratuwa](profile-banner.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=45&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=70&lines=%3E+AROSH+WIJESINGHE" alt="Arosh Wijesinghe" />
+<p align="center">
+  Exploring the boundaries of AI / ML · Building intelligent systems for the future
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+3rd+Year+Artificial+Intelligence+Student+%2F%2F+University+of+Moratuwa;%3E+Exploring+the+boundaries+of+AI+%2F+ML;%3E+Building+intelligent+systems+for+the+future" alt="Artificial Intelligence student at the University of Moratuwa" />
+<p align="center"><strong>Primary focus</strong> · AI / ML &emsp; <strong>Uptime</strong> · 24/7 &emsp; <strong>Location</strong> · Colombo, LK</p>
 
-<br>
+<p align="center">
+  <a href="#current-directives">Current directives</a> &nbsp; / &nbsp;
+  <a href="#tech-arsenal">Tech arsenal</a> &nbsp; / &nbsp;
+  <a href="#github-activity">GitHub activity</a> &nbsp; / &nbsp;
+  <a href="#snake-protocol">Snake protocol</a> &nbsp; / &nbsp;
+  <a href="#contact">Contact</a>
+</p>
 
-![Primary Focus](https://img.shields.io/badge/PRIMARY__FOCUS-AI_%2F_ML-00FF9D?style=for-the-badge&labelColor=0D1117)
-![Uptime](https://img.shields.io/badge/UPTIME-24%2F7-FF00FF?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/LOC-COLOMBO%2C_LK-00FFFF?style=for-the-badge&labelColor=0D1117)
+## Current directives
 
-</div>
+**Currently learning**
 
----
+AI/ML Engineering · Deep Learning & Computer Vision · Full-Stack Web Development · DevOps & Cloud Computing
 
-<!-- SYSTEM TELEMETRY -->
-<h2 align="center"><code>⟨ SYSTEM_TELEMETRY // GITHUB ACTIVITY ⟩</code></h2>
+**Interests**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aroshwijesinghe&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF9D&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF9D&sideLabels=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAB4C0&timezone=Asia/Colombo" height="180" alt="Streak Stats" />
-</div>
+Artificial Intelligence · Machine Learning & Deep Learning · Computer Vision (OpenCV) · Creative Problem Solving · UI/UX Design Thinking
 
-<br>
+## Tech arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroshwijesinghe&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&langs_count=10&custom_title=MOST+USED+LANGUAGES" alt="Top Languages" />
-</div>
+<details>
+<summary><strong>Languages</strong></summary>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=aroshwijesinghe&bg_color=0D1117&color=00FF9D&line=FF00FF&point=00FFFF&area=true&area_color=FF00FF&hide_border=true&custom_title=CONTRIBUTION%20PULSE%20%2F%2F%20LAST%2031%20DAYS" alt="Contribution Graph" />
-</div>
-
----
-
-<h2 align="center"><code>⟨ PROJECT_INDEX ⟩</code></h2>
-
-| Project | What you can do |
-| --- | --- |
-| [RAGLab](https://github.com/aroshwijesinghe/RAGLab) | Compare document chunking strategies and simulate vector searches locally in VS Code. |
-| [University Advisor](https://github.com/aroshwijesinghe/uni_advisor) | Explore Sri Lankan degree eligibility using A/L Z-score cutoffs in a Prolog and Python desktop app. |
-| [Timeline Crack](https://github.com/aroshwijesinghe/timeline_crack) | Replay routes from Google Maps Timeline and explore travel patterns in your browser. |
-
-[Browse all repositories](https://github.com/aroshwijesinghe?tab=repositories) · [View contribution history](https://github.com/aroshwijesinghe#js-contribution-activity)
-
----
-
-<!-- CURRENT DIRECTIVES -->
-<h2 align="center"><code>⟨ CURRENT_DIRECTIVES ⟩</code></h2>
-
-```yaml
-currently_learning:
-  - AI/ML Engineering
-  - Deep Learning & Computer Vision
-  - Full-Stack Web Development
-  - DevOps & Cloud Computing
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning & Deep Learning
-  - Computer Vision (OpenCV)
-  - Creative Problem Solving
-  - UI/UX Design Thinking
-```
-
----
-
-<!-- TECH ARSENAL -->
-<h2 align="center"><code>⟨ TECH_ARSENAL ⟩</code></h2>
-
-<h4 align="center"><code>[ LANGUAGES ]</code></h4>
-
-<table align="center" style="border: none; background-color: transparent;">
+<table align="center">
   <tr align="center">
     <td width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" /><br>C</td>
     <td width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" /><br>C++</td>
@@ -90,9 +46,12 @@ interests:
   </tr>
 </table>
 
-<h4 align="center"><code>[ AI / ML ]</code></h4>
+</details>
 
-<table align="center" style="border: none; background-color: transparent;">
+<details open>
+<summary><strong>AI &amp; ML</strong></summary>
+
+<table align="center">
   <tr align="center">
     <td width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
     <td width="96"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn</td>
@@ -101,9 +60,12 @@ interests:
   </tr>
 </table>
 
-<h4 align="center"><code>[ FRAMEWORKS & TECHNOLOGIES ]</code></h4>
+</details>
 
-<table align="center" style="border: none; background-color: transparent;">
+<details>
+<summary><strong>Frameworks &amp; technologies</strong></summary>
+
+<table align="center">
   <tr align="center">
     <td width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br>React</td>
     <td width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /><br>Next.js</td>
@@ -120,9 +82,12 @@ interests:
   </tr>
 </table>
 
-<h4 align="center"><code>[ TOOLS & ENVIRONMENT ]</code></h4>
+</details>
 
-<table align="center" style="border: none; background-color: transparent;">
+<details>
+<summary><strong>Tools &amp; environment</strong></summary>
+
+<table align="center">
   <tr align="center">
     <td width="96"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio" /><br>Visual Studio</td>
     <td width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /><br>VS Code</td>
@@ -139,10 +104,18 @@ interests:
   </tr>
 </table>
 
----
+</details>
 
-<!-- SNAKE GAME -->
-<h2 align="center"><code>⟨ DATA_CONSUMPTION_MATRIX // SNAKE PROTOCOL ⟩</code></h2>
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aroshwijesinghe&theme=synthwave&hide_border=true&background=131530&stroke=67E8D3&ring=FF8BBE&fire=FF8BBE&currStreakLabel=67E8D3&sideLabels=67E8D3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAB4C0&timezone=Asia/Colombo" width="49%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroshwijesinghe&layout=compact&theme=synthwave&hide_border=true&bg_color=131530&title_color=67E8D3&text_color=FFFFFF&langs_count=10&custom_title=MOST+USED+LANGUAGES" width="46%" alt="Top Languages" />
+</p>
+
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=aroshwijesinghe&bg_color=131530&color=67E8D3&line=FF8BBE&point=FFD499&area=true&area_color=FF8BBE&hide_border=true&custom_title=CONTRIBUTION%20PULSE%20%2F%2F%20LAST%2031%20DAYS" alt="Contribution Graph" />
+
+## Snake protocol
 
 <div align="center">
   <picture>
@@ -152,43 +125,12 @@ interests:
   </picture>
 </div>
 
----
+## Contact
 
-<!-- COMM LINKS -->
-<h2 align="center"><code>⟨ COMM_LINKS // SECURE CHANNELS OPEN ⟩</code></h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:aroshnimantha386@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-00FF9D?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" />
-      </a>
-      <br>
-      <code>aroshnimantha386@gmail.com</code>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/arosh-wijesinghe-078423341/">
-        <img src="https://img.shields.io/badge/LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br>
-      <code>/in/arosh-wijesinghe</code>
-    </td>
-    <td align="center">
-      <a href="https://portfoilo-ruddy-two.vercel.app/">
-        <img src="https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
-      </a>
-      <br>
-      <code>arosh.dev</code>
-    </td>
-  </tr>
-</table>
-
-<br>
+[Email · aroshnimantha386@gmail.com](mailto:aroshnimantha386@gmail.com) &nbsp; / &nbsp; [LinkedIn · Arosh Wijesinghe](https://www.linkedin.com/in/arosh-wijesinghe-078423341/) &nbsp; / &nbsp; [Portfolio · arosh.dev](https://portfoilo-ruddy-two.vercel.app/)
 
 <div align="center">
   <a href="https://hits.sh/github.com/aroshwijesinghe/">
-    <img src="https://hits.sh/github.com/aroshwijesinghe.svg?extraCount=259&style=for-the-badge&label=CYBERSPACE+VISITORS&color=ff00ff&labelColor=0d1117" alt="CYBERSPACE VISITORS" />
+    <img src="https://hits.sh/github.com/aroshwijesinghe.svg?extraCount=259&style=for-the-badge&label=CYBERSPACE+VISITORS&color=ff8bbe&labelColor=131530" alt="CYBERSPACE VISITORS" />
   </a>
 </div>
-
-<br>
