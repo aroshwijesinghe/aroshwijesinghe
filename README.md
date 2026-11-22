@@ -6,14 +6,6 @@
 
 <p align="center"><strong>Primary focus</strong> · AI / ML &emsp; <strong>Uptime</strong> · 24/7 &emsp; <strong>Location</strong> · Colombo, LK</p>
 
-<p align="center">
-  <a href="#current-directives">Current directives</a> &nbsp; / &nbsp;
-  <a href="#tech-arsenal">Tech arsenal</a> &nbsp; / &nbsp;
-  <a href="#github-activity">GitHub activity</a> &nbsp; / &nbsp;
-  <a href="#snake-protocol">Snake protocol</a> &nbsp; / &nbsp;
-  <a href="#contact">Contact</a>
-</p>
-
 ## Current directives
 
 **Currently learning**
@@ -26,7 +18,7 @@ Artificial Intelligence · Machine Learning & Deep Learning · Computer Vision (
 
 ## Tech arsenal
 
-<details>
+<details open>
 <summary><strong>Languages</strong></summary>
 
 <table align="center">
@@ -62,7 +54,7 @@ Artificial Intelligence · Machine Learning & Deep Learning · Computer Vision (
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Frameworks &amp; technologies</strong></summary>
 
 <table align="center">
@@ -84,7 +76,7 @@ Artificial Intelligence · Machine Learning & Deep Learning · Computer Vision (
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Tools &amp; environment</strong></summary>
 
 <table align="center">
