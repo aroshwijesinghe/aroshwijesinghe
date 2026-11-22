@@ -1,9 +1,9 @@
 <!-- CYBERPUNK TERMINAL HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=45&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=70&lines=%3E+AROSH+WIJESINGHE" alt="Name" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=45&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=70&lines=%3E+AROSH+WIJESINGHE" alt="Arosh Wijesinghe" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+3rd+Year+Artificial+Intelligence+Student+%2F%2F+University+of+Moratuwa;%3E+Exploring+the+boundaries+of+AI+%2F+ML;%3E+Building+intelligent+systems+for+the+future" alt="Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+3rd+Year+Artificial+Intelligence+Student+%2F%2F+University+of+Moratuwa;%3E+Exploring+the+boundaries+of+AI+%2F+ML;%3E+Building+intelligent+systems+for+the+future" alt="Artificial Intelligence student at the University of Moratuwa" />
 
 <br>
 
@@ -16,23 +16,35 @@
 ---
 
 <!-- SYSTEM TELEMETRY -->
-<h2 align="center"><code>⟨ SYSTEM_TELEMETRY // GITHUB FEED — LIVE ⟩</code></h2>
+<h2 align="center"><code>⟨ SYSTEM_TELEMETRY // GITHUB ACTIVITY ⟩</code></h2>
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=aroshwijesinghe&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF9D&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF9D&sideLabels=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&timezone=Asia/Colombo&cache_bust=1788624349" height="180" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aroshwijesinghe&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF9D&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF9D&sideLabels=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAB4C0&timezone=Asia/Colombo" height="180" alt="Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aroshwijesinghe&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&langs_count=10&custom_title=MOST+USED+LANGUAGES&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroshwijesinghe&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&langs_count=10&custom_title=MOST+USED+LANGUAGES" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=aroshwijesinghe&bg_color=0D1117&color=00FF9D&line=FF00FF&point=00FFFF&area=true&area_color=FF00FF&hide_border=true&custom_title=CONTRIBUTION+PULSE+%3A%3A+LAST+52+CYCLES" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=aroshwijesinghe&bg_color=0D1117&color=00FF9D&line=FF00FF&point=00FFFF&area=true&area_color=FF00FF&hide_border=true&custom_title=CONTRIBUTION%20PULSE%20%2F%2F%20LAST%2031%20DAYS" alt="Contribution Graph" />
 </div>
+
+---
+
+<h2 align="center"><code>⟨ PROJECT_INDEX ⟩</code></h2>
+
+| Project | What you can do |
+| --- | --- |
+| [RAGLab](https://github.com/aroshwijesinghe/RAGLab) | Compare document chunking strategies and simulate vector searches locally in VS Code. |
+| [University Advisor](https://github.com/aroshwijesinghe/uni_advisor) | Explore Sri Lankan degree eligibility using A/L Z-score cutoffs in a Prolog and Python desktop app. |
+| [Timeline Crack](https://github.com/aroshwijesinghe/timeline_crack) | Replay routes from Google Maps Timeline and explore travel patterns in your browser. |
+
+[Browse all repositories](https://github.com/aroshwijesinghe?tab=repositories) · [View contribution history](https://github.com/aroshwijesinghe#js-contribution-activity)
 
 ---
 
@@ -57,7 +69,7 @@ interests:
 ---
 
 <!-- TECH ARSENAL -->
-<h2 align="center"><code>⟨ TECH_ARSENAL // 19 MODULES LOADED ⟩</code></h2>
+<h2 align="center"><code>⟨ TECH_ARSENAL ⟩</code></h2>
 
 <h4 align="center"><code>[ LANGUAGES ]</code></h4>
 
